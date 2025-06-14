@@ -17,10 +17,12 @@ The project repository is organized as follows:
 ```
 .
 ├── README.md
-├── data
-│   └── marvel.csv
+├── Data
+│   └── marvel.xlsx
+├── Plot
 ├── report
 │   └── 2021012800_베네딕터스 에스라 헤르노오.pdf
+├── 통계소프트웨어1.Rproj
 └── 통계소프트웨어 기말고사.R
 ```
 
